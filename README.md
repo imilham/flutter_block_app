@@ -67,4 +67,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Have questions or need assistance? Feel free to reach out to us via email at 
 [im.ilhamk@gmail.com](mailto:im.ilhamk@gmail.com).
 
-Happy coding! 🚀
+Happy coding! 🤩🚀
