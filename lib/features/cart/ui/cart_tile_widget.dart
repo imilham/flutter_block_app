@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_block_app/features/cart/bloc/cart_bloc.dart';
-import 'package:flutter_block_app/features/home/bloc/home_bloc.dart';
 import 'package:flutter_block_app/features/home/models/home_product_data_model.dart';
 
 class CartTileWidget extends StatelessWidget {

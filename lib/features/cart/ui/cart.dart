@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_block_app/features/cart/bloc/cart_bloc.dart';
 import 'package:flutter_block_app/features/cart/ui/cart_tile_widget.dart';
-import 'package:flutter_block_app/features/home/ui/product_tile_widget.dart';
 
 class Cart extends StatefulWidget {
   const Cart({super.key});
@@ -16,8 +15,7 @@ class _CartState extends State<Cart> {
 
   @override
   void initState() {
-    // TODO: implement initState
-
+    super.initState();
     cartBloc.add(CartInitialEvent());
   }
 
