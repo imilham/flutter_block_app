@@ -17,7 +17,6 @@ class _CartState extends State<Cart> {
   void initState() {
     super.initState();
     cartBloc.add(CartInitialEvent());
-    //fffff
   }
 
   @override
